@@ -7,7 +7,7 @@
       <input
         v-model="serverUrl"
         class="border p-2 rounded w-full"
-        placeholder="wss://stg-api-genesist.soca.ai/voice-ws"
+        placeholder="wss://api.soca.ai/v1/voice-ws"
       />
     </div>
 
