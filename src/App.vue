@@ -57,9 +57,9 @@ function connectWebSocket() {
     ws.send(
       JSON.stringify({
         "type": "start",
-        "private_key": "sk-60abb4dc315ad1f919256aeb22f30afba7b7b6217fd7f6cd3370b606f260deef",
-        "session_id": "3f62decb-b0e8-4331-9124-5e41d1944fef",
-        "agent_id": "68ff3232899f2321bcda7cb6",
+        "private_key": "<private_key>",
+        "session_id": "<session_id>",
+        "agent_id": "<agent_id>",
         "lang": "id",
         "sr": 16000
       })
